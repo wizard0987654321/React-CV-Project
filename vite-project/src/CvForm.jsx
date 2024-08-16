@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import FormField from "./FormField";
-import LayoutField from "./LayoutField";
+import FormField from "../components/FormField";
+import LayoutField from "../components/LayoutField";
 import "./styles.css"
 
 export default function CvForm() {
